@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="Carson Alexander Lewis Reaper Scripts " commit="de14ace8bf34272ec83c914325420074a4fec1a4">
+<index version="1" name="Carson Alexander Lewis Reaper Scripts" commit="de14ace8bf34272ec83c914325420074a4fec1a4">
   <category name="Example">
     <reapack name="cfillion_Hello world.lua" type="script" desc="Hello world">
       <metadata>
