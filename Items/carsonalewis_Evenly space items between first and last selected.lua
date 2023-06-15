@@ -2,7 +2,7 @@
 -- @author Carson Alexander Lewis
 -- @version 1.0
 -- @about
---   TEST!
+--   Evenly spaces items between first and last selected
 
 function Main()
 
@@ -33,4 +33,3 @@ end
 reaper.Undo_BeginBlock2(0)
 Main()
 reaper.Undo_EndBlock2(0, "Evenly space items between first and last selected", -1)
-reaper.Undo_EndBlock2()
