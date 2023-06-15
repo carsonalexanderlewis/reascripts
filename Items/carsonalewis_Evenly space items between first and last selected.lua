@@ -1,4 +1,4 @@
--- @description Evenly spaces items between first and last selected
+-- @description carsonalewis_Evenly space items between first and last selected
 -- @author Carson Alexander Lewis
 -- @version 1.0
 -- @about
