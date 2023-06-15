@@ -1,21 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="carsonalewis Reaper Scripts" commit="0989a2e6403181eff004087ae19c0b709469e44a">
-  <category name="Items">
-    <reapack name="carsonalewis_Evenly space items between first and last selected.lua" type="script" desc="carsonalewis_Evenly space items between first and last selected">
-      <metadata>
-        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
-{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
-\widowctrl\hyphauto
-
-{\pard \ql \f0 \sa180 \li0 \fi0 Evenly spaces items between first and last selected\par}
-}
-]]></description>
-      </metadata>
-      <version name="1.0" author="Carson Alexander Lewis" time="2023-06-15T05:48:59Z">
-        <source main="main">https://github.com/carsonalexanderlewis/reascripts/raw/de14ace8bf34272ec83c914325420074a4fec1a4/Items/carsonalewis_Evenly%20space%20items%20between%20first%20and%20last%20selected.lua</source>
-      </version>
-    </reapack>
-  </category>
+<index version="1" name="carsonalewis Reaper Scripts" commit="e8f2ab8a41b124b4e9e559ecef804814f2f03ad5">
   <metadata>
     <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
 {\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
