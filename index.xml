@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="Carson Alexander Lewis Reaper Scripts" commit="0989a2e6403181eff004087ae19c0b709469e44a">
+<index version="1" name="carsonalewis Reaper Scripts" commit="0989a2e6403181eff004087ae19c0b709469e44a">
   <category name="Items">
     <reapack name="carsonalewis_Evenly space items between first and last selected.lua" type="script" desc="carsonalewis_Evenly space items between first and last selected">
       <metadata>
